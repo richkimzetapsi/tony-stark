@@ -32,4 +32,5 @@ On a scale of 1 (too easy) to 10 (too challenging), how difficult was this chall
 3, because I had to read over the exact syntax and ask questions to find out how to create a new directory. 
 
 Did you encounter any problems in this challenge we should warn students about in the future? How can we make the challenge better?
-... 
+I wasn't able to create a new directory in this github platform. I could make new .txt files, but not a new directory. 
+Perhaps creating less rules and asking the students to create a short poem with different visual writing formats would've been interesting, as it allows students to be more creative in their results. 
