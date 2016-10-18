@@ -1,8 +1,10 @@
 # tony-stark
-:) Genius Billionaire Playboy Philanthropist 
+:)
 
 
 ## TONY STARK (IRON MAN) 
+
+Self-proclaimed 'Genius Billionaire Playboy Philanthropist' 
 
 [Anthony "Tony" Stark](http://marvel.wikia.com/wiki/Anthony_Stark_(Earth-616)) was born to a family that owned *Stark Industries*, a defense company that develops and manufactures various defense technologies and advanced weaponry. 
 
